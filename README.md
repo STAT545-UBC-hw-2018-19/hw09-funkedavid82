@@ -39,11 +39,11 @@ The commit history of this repository reflects what a student might do as she wo
 <td>The edited makefile </td>
 </tr>
 <tr class="odd">
-<td><a href="https://github.com/STAT545-UBC-students/hw09-funkedavid82/blob/master/Makefile">.Rmd file</a></td>
+<td><a href="https://github.com/STAT545-UBC-students/hw09-funkedavid82/blob/master/report2.Rmd">.Rmd file</a></td>
 <td>The added Rmarkdown file </td>
 </tr>
 <tr class="even">
-<td><a href="https://github.com/STAT545-UBC-students/hw09-funkedavid82/blob/master/Makefile">R script file</a></td>
+<td><a href="https://github.com/STAT545-UBC-students/hw09-funkedavid82/blob/master/Count_Vowels.R">R script file</a></td>
 <td>The added R script </td>
 </tr>
 </tbody>
